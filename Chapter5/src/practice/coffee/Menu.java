@@ -1,4 +1,4 @@
-package Practice;
+package practice.coffee;
 
 public class Menu {
 	public static final int STARAMERICANO = 4000;

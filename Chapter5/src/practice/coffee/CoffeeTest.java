@@ -1,5 +1,4 @@
-package Practice;
-
+package practice.coffee;
 
 public class CoffeeTest {
 
